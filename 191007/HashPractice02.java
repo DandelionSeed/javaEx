@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-public class Practice02
+public class HashPractice02
 {
     public boolean solution(String[] phone_book) {
         boolean answer = true;
